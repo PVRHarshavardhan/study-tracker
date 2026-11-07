@@ -1,6 +1,6 @@
 // Study Tracker service worker — makes the app installable and usable offline.
 // Bump VERSION on every release so installed apps pick up the update.
-const VERSION = 'v4.1.0';
+const VERSION = 'v4.1.1';
 const CACHE = 'study-tracker-' + VERSION;
 const SHELL = ['./', './index.html', './config.js', './manifest.webmanifest',
   './icons/icon-192.png', './icons/icon-512.png', './icons/maskable-512.png', './icons/apple-touch-icon.png'];
