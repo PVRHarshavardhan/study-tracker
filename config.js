@@ -1,5 +1,3 @@
-// App owner: paste your Google OAuth Client ID here (see README.md, step 2).
-// Everyone who opens your link uses it to sign in with their own Google account.
 window.APP_CONFIG = {
-  clientId: 'PASTE_YOUR_CLIENT_ID.apps.googleusercontent.com'
+  clientId: '2318717983-n50j9kstm53k3otkq0ua7cts7p9bf5oc.apps.googleusercontent.com'
 };
